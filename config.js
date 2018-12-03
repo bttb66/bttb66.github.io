@@ -14,7 +14,7 @@ let config = {
 
   // addtional
   googleAnalyticsTrackingId: 'UA-130252305-1',
-  disqusShortname: '',
+  disqusShortname: 'sw-p',
 };
 
 /********************************************** */

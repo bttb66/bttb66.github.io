@@ -1620,12 +1620,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-12-03T08:31:49.950Z",
+      "buildTime": "2018-12-03T17:15:41.663Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9427752601484348bd85776dc75c73c0",
+        "contentDigest": "f6e2b77d96285858ab48830a1e532206",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1635,7 +1635,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e9dd78cc70af18944424d602bdfce113",
+        "contentDigest": "f31c1ca6ed30e98451a6a6ff479d0cd3",
         "type": "Directory",
         "description": "Directory \"_posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1644,11 +1644,11 @@
       "absolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts",
       "relativePath": "",
       "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2018-12-03T08:24:25.000Z",
-      "accessTime": "2018-12-03T08:31:55.564Z",
-      "changeTime": "2018-12-03T08:24:25.913Z",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2018-12-03T17:14:44.000Z",
+      "accessTime": "2018-12-03T17:15:45.541Z",
+      "changeTime": "2018-12-03T17:14:44.265Z",
       "birthTime": "2018-11-15T21:39:20.000Z",
       "root": "/",
       "dir": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io",
@@ -1658,21 +1658,68 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 3,
+      "nlink": 6,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 5855491,
       "blocks": 0,
-      "atimeMs": 1543825915564.352,
-      "mtimeMs": 1543825465000,
-      "ctimeMs": 1543825465913.2122,
+      "atimeMs": 1543857345540.7317,
+      "mtimeMs": 1543857284000,
+      "ctimeMs": 1543857284264.8662,
       "birthtimeMs": 1542317960000,
-      "atime": "2018-12-03T08:31:55.564Z",
-      "mtime": "2018-12-03T08:24:25.000Z",
-      "ctime": "2018-12-03T08:24:25.913Z",
+      "atime": "2018-12-03T17:15:45.541Z",
+      "mtime": "2018-12-03T17:14:44.000Z",
+      "ctime": "2018-12-03T17:14:44.265Z",
       "birthtime": "2018-11-15T21:39:20.000Z"
+    },
+    "cde107f3-f5c4-5b61-afec-67ec7191dcfe": {
+      "id": "cde107f3-f5c4-5b61-afec-67ec7191dcfe",
+      "children": [
+        "61dbf03a-0b1b-524b-aa69-5b1299e03952"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6c13df6d6446077c65b95ade7f3f26f3",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"_posts/2018-12-04-algo-3-post.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts/2018-12-04-algo-3-post.md",
+      "relativePath": "2018-12-04-algo-3-post.md",
+      "extension": "md",
+      "size": 2304,
+      "prettySize": "2.3 kB",
+      "modifiedTime": "2018-12-03T17:14:37.361Z",
+      "accessTime": "2018-12-03T17:14:53.740Z",
+      "changeTime": "2018-12-03T17:14:37.361Z",
+      "birthTime": "2018-12-03T17:12:14.166Z",
+      "root": "/",
+      "dir": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts",
+      "base": "2018-12-04-algo-3-post.md",
+      "ext": ".md",
+      "name": "2018-12-04-algo-3-post",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 6081102,
+      "blocks": 8,
+      "atimeMs": 1543857293740.2744,
+      "mtimeMs": 1543857277360.6194,
+      "ctimeMs": 1543857277360.6194,
+      "birthtimeMs": 1543857134165.7722,
+      "atime": "2018-12-03T17:14:53.740Z",
+      "mtime": "2018-12-03T17:14:37.361Z",
+      "ctime": "2018-12-03T17:14:37.361Z",
+      "birthtime": "2018-12-03T17:12:14.166Z"
     },
     "62fcb52d-11d6-5d26-9536-75cefc74d2a1": {
       "id": "62fcb52d-11d6-5d26-9536-75cefc74d2a1",
@@ -1694,7 +1741,7 @@
       "size": 341,
       "prettySize": "341 B",
       "modifiedTime": "2018-11-15T21:39:20.000Z",
-      "accessTime": "2018-12-03T08:30:18.798Z",
+      "accessTime": "2018-12-03T17:14:56.145Z",
       "changeTime": "2018-12-03T08:24:14.105Z",
       "birthTime": "2018-11-15T21:39:20.000Z",
       "root": "/",
@@ -1712,14 +1759,140 @@
       "blksize": 4194304,
       "ino": 5855492,
       "blocks": 8,
-      "atimeMs": 1543825818797.7468,
+      "atimeMs": 1543857296144.838,
       "mtimeMs": 1542317960000,
       "ctimeMs": 1543825454104.7473,
       "birthtimeMs": 1542317960000,
-      "atime": "2018-12-03T08:30:18.798Z",
+      "atime": "2018-12-03T17:14:56.145Z",
       "mtime": "2018-11-15T21:39:20.000Z",
       "ctime": "2018-12-03T08:24:14.105Z",
       "birthtime": "2018-11-15T21:39:20.000Z"
+    },
+    "7163a787-56ba-5d59-b993-177ef1772e8a": {
+      "id": "7163a787-56ba-5d59-b993-177ef1772e8a",
+      "children": [
+        "96becc00-62fe-5c35-963e-33d23359d36b"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d961c3064a598a119ad36bf190f9eccb",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"_posts/2018-12-03-algo-post.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts/2018-12-03-algo-post.md",
+      "relativePath": "2018-12-03-algo-post.md",
+      "extension": "md",
+      "size": 1781,
+      "prettySize": "1.78 kB",
+      "modifiedTime": "2018-12-03T12:57:31.117Z",
+      "accessTime": "2018-12-03T17:14:56.145Z",
+      "changeTime": "2018-12-03T12:57:31.117Z",
+      "birthTime": "2018-12-03T12:46:32.281Z",
+      "root": "/",
+      "dir": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts",
+      "base": "2018-12-03-algo-post.md",
+      "ext": ".md",
+      "name": "2018-12-03-algo-post",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 6039748,
+      "blocks": 8,
+      "atimeMs": 1543857296144.9673,
+      "mtimeMs": 1543841851116.9673,
+      "ctimeMs": 1543841851116.9673,
+      "birthtimeMs": 1543841192280.9338,
+      "atime": "2018-12-03T17:14:56.145Z",
+      "mtime": "2018-12-03T12:57:31.117Z",
+      "ctime": "2018-12-03T12:57:31.117Z",
+      "birthtime": "2018-12-03T12:46:32.281Z"
+    },
+    "af76bac7-86a0-56b3-adf7-f93e6436e6f8": {
+      "id": "af76bac7-86a0-56b3-adf7-f93e6436e6f8",
+      "children": [
+        "9df9af4a-0f4e-53ed-bf0b-6b8818c0700e"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7bc8543dfc27e25612f2840d6c4c29eb",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"_posts/2018-12-03-algo-2-post.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts/2018-12-03-algo-2-post.md",
+      "relativePath": "2018-12-03-algo-2-post.md",
+      "extension": "md",
+      "size": 1083,
+      "prettySize": "1.08 kB",
+      "modifiedTime": "2018-12-03T13:04:58.632Z",
+      "accessTime": "2018-12-03T17:14:56.145Z",
+      "changeTime": "2018-12-03T13:04:58.632Z",
+      "birthTime": "2018-12-03T13:04:33.659Z",
+      "root": "/",
+      "dir": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts",
+      "base": "2018-12-03-algo-2-post.md",
+      "ext": ".md",
+      "name": "2018-12-03-algo-2-post",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 6041161,
+      "blocks": 8,
+      "atimeMs": 1543857296144.8816,
+      "mtimeMs": 1543842298632.1494,
+      "ctimeMs": 1543842298632.1494,
+      "birthtimeMs": 1543842273658.635,
+      "atime": "2018-12-03T17:14:56.145Z",
+      "mtime": "2018-12-03T13:04:58.632Z",
+      "ctime": "2018-12-03T13:04:58.632Z",
+      "birthtime": "2018-12-03T13:04:33.659Z"
+    },
+    "61dbf03a-0b1b-524b-aa69-5b1299e03952": {
+      "id": "61dbf03a-0b1b-524b-aa69-5b1299e03952",
+      "children": [],
+      "parent": "cde107f3-f5c4-5b61-afec-67ec7191dcfe",
+      "internal": {
+        "content": "\n \n\n# [BOJ 11559 Puyo Puyo](https://www.acmicpc.net/problem/11559)\n\n```c++\n#include <stdio.h>\n#include <queue>\n#include <utility>\nusing namespace std;\n\nchar map[13][7];\nint visit[13][7];\nint dx[] = {0, -1, 0, 1};\nint dy[] = {-1, 0, 1, 0};\nint ret = 0;\n\nvoid setPuyo(){\n    int i, j, cnt = 0;\n    ret++;\n\n    for(j = 0; j < 6; j++){\n        cnt = 0;\n        for(i = 11; i >= 0; i--){\n            if(map[i][j] == '.')\n                cnt++;\n            if(map[i][j] != '.' && cnt != 0){\n                map[i+cnt][j] = map[i][j];\n                map[i][j] = '.';\n            }\n        }\n    }\n}\n\nvoid bombPuyo(queue<pair<int, int>> q){\n    int x, y;\n    \n    while(!q.empty()){\n        x = q.front().first;\n        y = q.front().second;\n        \n        map[x][y] = '.';\n        q.pop();\n    }\n}\n\nbool checkPuyo(int a, int b){\n    queue<pair<int,int>> q;\n    queue<pair<int,int>> q2;\n    int i, j, x, y, ax, ay, cnt = 1;\n    \n    q.push(pair<int, int>(a, b));\n    q2.push(pair<int, int>(a, b));\n    visit[a][b] = 1;\n    \n    while(!q.empty()){\n        x = q.front().first;\n        y = q.front().second;\n        q.pop();\n        \n        for(i = 0; i < 4; i++){\n            ax = dx[i] + x;\n            ay = dy[i] + y;\n            \n            if(ax >= 0 && ax < 12 && ay >= 0 && ay < 6 && map[ax][ay] == map[a][b] && visit[ax][ay] == 0){\n                cnt++;\n                q.push(pair<int, int>(ax, ay));\n                q2.push(pair<int, int>(ax, ay));\n                visit[ax][ay] = 1;\n            }\n        }\n\n    }\n    for(i = 0; i < 12; i++){\n        for(j = 0; j < 6; j++)\n            visit[i][j] = 0;\n    }\n\n    if(cnt >= 4){\n        bombPuyo(q2);\n        return true;\n    }\n    return false;\n}\n\n\nvoid selectPuyo(){\n    int i, j;\n    bool flag = false;\n    \n    for(i = 11; i >= 0; i--){\n        for(j = 0; j < 6; j++){\n            if(map[i][j] != '.'){\n                if(checkPuyo(i, j))\n                    flag = true;\n            }\n        }\n    }\n    \n    if(flag){\n        setPuyo();\n        selectPuyo();\n    }\n\n}\n\nint main(int argc, const char * argv[]) {\n    int i;\n    \n    for(i = 0; i < 12; i++){\n        scanf(\"%s\", map[i]);\n    }\n\n    selectPuyo();\n    \n    printf(\"%d\", ret);\n    \n    return 0;\n}\n\n```\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "92e08bf342f3aab2e0be83da4bdb0875",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "[BOJ 11559] Puyo Puyo",
+        "date": "2018-12-04T00:00:00.000Z",
+        "tags": [
+          "algorithm"
+        ],
+        "_PARENT": "cde107f3-f5c4-5b61-afec-67ec7191dcfe",
+        "keywords": [
+          "SW_P"
+        ],
+        "published": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n \n\n# [BOJ 11559 Puyo Puyo](https://www.acmicpc.net/problem/11559)\n\n```c++\n#include <stdio.h>\n#include <queue>\n#include <utility>\nusing namespace std;\n\nchar map[13][7];\nint visit[13][7];\nint dx[] = {0, -1, 0, 1};\nint dy[] = {-1, 0, 1, 0};\nint ret = 0;\n\nvoid setPuyo(){\n    int i, j, cnt = 0;\n    ret++;\n\n    for(j = 0; j < 6; j++){\n        cnt = 0;\n        for(i = 11; i >= 0; i--){\n            if(map[i][j] == '.')\n                cnt++;\n            if(map[i][j] != '.' && cnt != 0){\n                map[i+cnt][j] = map[i][j];\n                map[i][j] = '.';\n            }\n        }\n    }\n}\n\nvoid bombPuyo(queue<pair<int, int>> q){\n    int x, y;\n    \n    while(!q.empty()){\n        x = q.front().first;\n        y = q.front().second;\n        \n        map[x][y] = '.';\n        q.pop();\n    }\n}\n\nbool checkPuyo(int a, int b){\n    queue<pair<int,int>> q;\n    queue<pair<int,int>> q2;\n    int i, j, x, y, ax, ay, cnt = 1;\n    \n    q.push(pair<int, int>(a, b));\n    q2.push(pair<int, int>(a, b));\n    visit[a][b] = 1;\n    \n    while(!q.empty()){\n        x = q.front().first;\n        y = q.front().second;\n        q.pop();\n        \n        for(i = 0; i < 4; i++){\n            ax = dx[i] + x;\n            ay = dy[i] + y;\n            \n            if(ax >= 0 && ax < 12 && ay >= 0 && ay < 6 && map[ax][ay] == map[a][b] && visit[ax][ay] == 0){\n                cnt++;\n                q.push(pair<int, int>(ax, ay));\n                q2.push(pair<int, int>(ax, ay));\n                visit[ax][ay] = 1;\n            }\n        }\n\n    }\n    for(i = 0; i < 12; i++){\n        for(j = 0; j < 6; j++)\n            visit[i][j] = 0;\n    }\n\n    if(cnt >= 4){\n        bombPuyo(q2);\n        return true;\n    }\n    return false;\n}\n\n\nvoid selectPuyo(){\n    int i, j;\n    bool flag = false;\n    \n    for(i = 11; i >= 0; i--){\n        for(j = 0; j < 6; j++){\n            if(map[i][j] != '.'){\n                if(checkPuyo(i, j))\n                    flag = true;\n            }\n        }\n    }\n    \n    if(flag){\n        setPuyo();\n        selectPuyo();\n    }\n\n}\n\nint main(int argc, const char * argv[]) {\n    int i;\n    \n    for(i = 0; i < 12; i++){\n        scanf(\"%s\", map[i]);\n    }\n\n    selectPuyo();\n    \n    printf(\"%d\", ret);\n    \n    return 0;\n}\n\n```\n\n",
+      "fileAbsolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts/2018-12-04-algo-3-post.md",
+      "fields": {
+        "slug": "/algo-3-post/"
+      }
     },
     "335d06a8-aa6e-50f6-9b34-1dc98ced44a8": {
       "id": "335d06a8-aa6e-50f6-9b34-1dc98ced44a8",
@@ -1753,6 +1926,197 @@
         "slug": "/first-post/"
       }
     },
+    "96becc00-62fe-5c35-963e-33d23359d36b": {
+      "id": "96becc00-62fe-5c35-963e-33d23359d36b",
+      "children": [],
+      "parent": "7163a787-56ba-5d59-b993-177ef1772e8a",
+      "internal": {
+        "content": "\n# [BOJ 14620 꽃길](https://www.acmicpc.net/problem/14620)\n\n```c++\n#include <iostream>\n#include <stdio.h>\nusing namespace std;\n\nint map[11][11];\nint visit[11][11];\nint price = 2147483647, len;\n\n\n\nvoid dfs(int cnt, int pr){\n    int dx[4] = {0, -1, 0, 1};\n    int dy[4] = {-1, 0, 1, 0};\n    int i, j, k, ax, ay, p;\n    bool flag;\n    \n    if(cnt == 0){\n        price = price < pr ? price : pr;\n        return;\n    }\n    \n    for(i = 1; i < len; i++){\n        for(j = 1; j < len; j++){\n            flag = true;\n            if(visit[i][j] == 1)\n                continue;\n            for(k = 0; k < 4; k++){\n                ax = i + dx[k];\n                ay = j + dy[k];\n                if(ax < 0 || ax >= len || ay < 0 || ay >= len || visit[ax][ay] == 1){\n                    flag = false;\n                    break;\n                }\n            }\n            \n            if(!flag)\n                continue;\n            \n            visit[i][j] = 1;\n            p = map[i][j];\n            for(k = 0; k < 4; k++){\n                ax = i + dx[k];\n                ay = j + dy[k];\n                visit[ax][ay] = 1;\n                p += map[ax][ay];\n            }\n            \n            dfs(cnt-1, pr+p);\n            \n            visit[i][j] = 0;\n            for(k = 0; k < 4; k++){\n                ax = i + dx[k];\n                ay = j + dy[k];\n                visit[ax][ay] = 0;\n            }\n        }\n    }\n}\n\nint main(int argc, const char * argv[]) {\n\n    int i = 0, j = 0;\n    scanf(\"%d\", &len);\n    \n    for(i = 0; i < len; i++){\n        for(j = 0; j < len; j++){\n            scanf(\"%d\", &map[i][j]);\n        }\n    }\n\n    dfs(3, 0);\n    \n    printf(\"%d\", price);\n    return 0;\n}\n\n```\n\n최적화 필요",
+        "type": "MarkdownRemark",
+        "contentDigest": "3d191cf68218b6f0ca0eb7b1b992020c",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "[BOJ 14620] 꽃길",
+        "date": "2018-12-03T00:00:00.000Z",
+        "tags": [
+          "algorithm"
+        ],
+        "_PARENT": "7163a787-56ba-5d59-b993-177ef1772e8a",
+        "keywords": [
+          "SW_P"
+        ],
+        "published": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n# [BOJ 14620 꽃길](https://www.acmicpc.net/problem/14620)\n\n```c++\n#include <iostream>\n#include <stdio.h>\nusing namespace std;\n\nint map[11][11];\nint visit[11][11];\nint price = 2147483647, len;\n\n\n\nvoid dfs(int cnt, int pr){\n    int dx[4] = {0, -1, 0, 1};\n    int dy[4] = {-1, 0, 1, 0};\n    int i, j, k, ax, ay, p;\n    bool flag;\n    \n    if(cnt == 0){\n        price = price < pr ? price : pr;\n        return;\n    }\n    \n    for(i = 1; i < len; i++){\n        for(j = 1; j < len; j++){\n            flag = true;\n            if(visit[i][j] == 1)\n                continue;\n            for(k = 0; k < 4; k++){\n                ax = i + dx[k];\n                ay = j + dy[k];\n                if(ax < 0 || ax >= len || ay < 0 || ay >= len || visit[ax][ay] == 1){\n                    flag = false;\n                    break;\n                }\n            }\n            \n            if(!flag)\n                continue;\n            \n            visit[i][j] = 1;\n            p = map[i][j];\n            for(k = 0; k < 4; k++){\n                ax = i + dx[k];\n                ay = j + dy[k];\n                visit[ax][ay] = 1;\n                p += map[ax][ay];\n            }\n            \n            dfs(cnt-1, pr+p);\n            \n            visit[i][j] = 0;\n            for(k = 0; k < 4; k++){\n                ax = i + dx[k];\n                ay = j + dy[k];\n                visit[ax][ay] = 0;\n            }\n        }\n    }\n}\n\nint main(int argc, const char * argv[]) {\n\n    int i = 0, j = 0;\n    scanf(\"%d\", &len);\n    \n    for(i = 0; i < len; i++){\n        for(j = 0; j < len; j++){\n            scanf(\"%d\", &map[i][j]);\n        }\n    }\n\n    dfs(3, 0);\n    \n    printf(\"%d\", price);\n    return 0;\n}\n\n```\n\n최적화 필요",
+      "fileAbsolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts/2018-12-03-algo-post.md",
+      "fields": {
+        "slug": "/algo-post/"
+      }
+    },
+    "9df9af4a-0f4e-53ed-bf0b-6b8818c0700e": {
+      "id": "9df9af4a-0f4e-53ed-bf0b-6b8818c0700e",
+      "children": [],
+      "parent": "af76bac7-86a0-56b3-adf7-f93e6436e6f8",
+      "internal": {
+        "content": "\n \n\n# [BOJ 6603 로또](https://www.acmicpc.net/problem/6603)\n\n```java\nimport java.io.BufferedReader;\nimport java.io.IOException;\nimport java.io.InputStreamReader;\nimport java.util.StringTokenizer;\n\npublic class Main {\n\n\tpublic static void main(String[] args) throws IOException{\n\t\t// TODO Auto-generated method stub\n\t\tBufferedReader br = new BufferedReader(new InputStreamReader(System.in));\n\t\tint[] arr;\n\t\tStringTokenizer st = null;\n\t\twhile(true){\n\t\t\tst = new StringTokenizer(br.readLine());\n\t\t\tint n = Integer.parseInt(st.nextToken());\n\t\t\t\n\t\t\tif(n == 0)\n\t\t\t\tbreak;\n\t\t\t\n\t\t\tarr = new int[n];\n\t\t\tfor(int i = 0;i < n; i++){\n\t\t\t\tarr[i] = Integer.parseInt(st.nextToken());\n\t\t\t}\n\t\t\t\n\t\t\tgetLotto(arr, \"\", n, 0, 0);\n\t\t\tSystem.out.println();\n\t\t}\n\t\t\n\t\tbr.close();\n\t}\n\t\n\tpublic static void getLotto(int[] arr, String lotto, int size, int n, int cnt){\n\t\tif(cnt == 6){\n\t\t\tSystem.out.println(lotto);\n\t\t\treturn;\n\t\t}\n\t\t\n\t\tfor(int i = n; i < size; i++){\n\t\t\tgetLotto(arr, lotto+arr[i]+ \" \", size, i + 1, cnt+1);\n\t\t}\n\t}\n\n}\n```\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1fc1db080bea152aa2f5b8f308c83738",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "[BOJ 6603] 로또",
+        "date": "2018-12-03T00:00:00.000Z",
+        "tags": [
+          "algorithm"
+        ],
+        "_PARENT": "af76bac7-86a0-56b3-adf7-f93e6436e6f8",
+        "keywords": [
+          "SW_P"
+        ],
+        "published": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n \n\n# [BOJ 6603 로또](https://www.acmicpc.net/problem/6603)\n\n```java\nimport java.io.BufferedReader;\nimport java.io.IOException;\nimport java.io.InputStreamReader;\nimport java.util.StringTokenizer;\n\npublic class Main {\n\n\tpublic static void main(String[] args) throws IOException{\n\t\t// TODO Auto-generated method stub\n\t\tBufferedReader br = new BufferedReader(new InputStreamReader(System.in));\n\t\tint[] arr;\n\t\tStringTokenizer st = null;\n\t\twhile(true){\n\t\t\tst = new StringTokenizer(br.readLine());\n\t\t\tint n = Integer.parseInt(st.nextToken());\n\t\t\t\n\t\t\tif(n == 0)\n\t\t\t\tbreak;\n\t\t\t\n\t\t\tarr = new int[n];\n\t\t\tfor(int i = 0;i < n; i++){\n\t\t\t\tarr[i] = Integer.parseInt(st.nextToken());\n\t\t\t}\n\t\t\t\n\t\t\tgetLotto(arr, \"\", n, 0, 0);\n\t\t\tSystem.out.println();\n\t\t}\n\t\t\n\t\tbr.close();\n\t}\n\t\n\tpublic static void getLotto(int[] arr, String lotto, int size, int n, int cnt){\n\t\tif(cnt == 6){\n\t\t\tSystem.out.println(lotto);\n\t\t\treturn;\n\t\t}\n\t\t\n\t\tfor(int i = n; i < size; i++){\n\t\t\tgetLotto(arr, lotto+arr[i]+ \" \", size, i + 1, cnt+1);\n\t\t}\n\t}\n\n}\n```\n\n",
+      "fileAbsolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts/2018-12-03-algo-2-post.md",
+      "fields": {
+        "slug": "/algo-2-post/"
+      }
+    },
+    "SitePage /algo-3-post/": {
+      "jsonName": "algo-3-post-83d",
+      "internalComponentName": "ComponentAlgo3Post",
+      "path": "/algo-3-post/",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js",
+      "componentChunkName": "component---src-templates-blog-post-index-js",
+      "context": {
+        "slug": "/algo-3-post/",
+        "previous": {
+          "fields": {
+            "slug": "/algo-post/"
+          },
+          "frontmatter": {
+            "title": "[BOJ 14620] 꽃길",
+            "tags": [
+              "algorithm"
+            ],
+            "published": true
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js",
+      "id": "SitePage /algo-3-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e86bdc23d31088c843c7d14fb60178f6",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /algo-post/": {
+      "jsonName": "algo-post-8ed",
+      "internalComponentName": "ComponentAlgoPost",
+      "path": "/algo-post/",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js",
+      "componentChunkName": "component---src-templates-blog-post-index-js",
+      "context": {
+        "slug": "/algo-post/",
+        "previous": {
+          "fields": {
+            "slug": "/algo-2-post/"
+          },
+          "frontmatter": {
+            "title": "[BOJ 6603] 로또",
+            "tags": [
+              "algorithm"
+            ],
+            "published": true
+          }
+        },
+        "next": {
+          "fields": {
+            "slug": "/algo-3-post/"
+          },
+          "frontmatter": {
+            "title": "[BOJ 11559] Puyo Puyo",
+            "tags": [
+              "algorithm"
+            ],
+            "published": true
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js",
+      "id": "SitePage /algo-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b1747fbebada62bf7357a7c33529af1d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /algo-2-post/": {
+      "jsonName": "algo-2-post-ce8",
+      "internalComponentName": "ComponentAlgo2Post",
+      "path": "/algo-2-post/",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js",
+      "componentChunkName": "component---src-templates-blog-post-index-js",
+      "context": {
+        "slug": "/algo-2-post/",
+        "previous": {
+          "fields": {
+            "slug": "/first-post/"
+          },
+          "frontmatter": {
+            "title": "First Post, README",
+            "tags": [
+              "blog"
+            ],
+            "published": true
+          }
+        },
+        "next": {
+          "fields": {
+            "slug": "/algo-post/"
+          },
+          "frontmatter": {
+            "title": "[BOJ 14620] 꽃길",
+            "tags": [
+              "algorithm"
+            ],
+            "published": true
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js",
+      "id": "SitePage /algo-2-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "baebd4ba92576d90b87fa7c3be75b204",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /first-post/": {
       "jsonName": "first-post-482",
       "internalComponentName": "ComponentFirstPost",
@@ -1762,7 +2126,18 @@
       "context": {
         "slug": "/first-post/",
         "previous": null,
-        "next": null
+        "next": {
+          "fields": {
+            "slug": "/algo-2-post/"
+          },
+          "frontmatter": {
+            "title": "[BOJ 6603] 로또",
+            "tags": [
+              "algorithm"
+            ],
+            "published": true
+          }
+        }
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
@@ -1772,7 +2147,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c74ebfb906aa6db49a26780aaf1e424f",
+        "contentDigest": "90058ad6ee78d0c2055008c6cdbfa89c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1785,12 +2160,55 @@
       "componentChunkName": "component---src-templates-tag-list-index-js",
       "context": {
         "tags": [
+          "algorithm",
           "blog"
         ],
         "result": {
           "data": {
             "allMarkdownRemark": {
               "edges": [
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/algo-3-post/"
+                    },
+                    "frontmatter": {
+                      "title": "[BOJ 11559] Puyo Puyo",
+                      "tags": [
+                        "algorithm"
+                      ],
+                      "published": true
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/algo-post/"
+                    },
+                    "frontmatter": {
+                      "title": "[BOJ 14620] 꽃길",
+                      "tags": [
+                        "algorithm"
+                      ],
+                      "published": true
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/algo-2-post/"
+                    },
+                    "frontmatter": {
+                      "title": "[BOJ 6603] 로또",
+                      "tags": [
+                        "algorithm"
+                      ],
+                      "published": true
+                    }
+                  }
+                },
                 {
                   "node": {
                     "fields": {
@@ -1818,7 +2236,93 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8969e086a3684e4bbfe69a0509d17fd1",
+        "contentDigest": "a10fff438806f64ae013c99687c72668",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/algorithm/": {
+      "jsonName": "tags-algorithm-e15",
+      "internalComponentName": "ComponentTagsAlgorithm",
+      "path": "/tags/algorithm/",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/tagList/index.js",
+      "componentChunkName": "component---src-templates-tag-list-index-js",
+      "context": {
+        "tag": "algorithm",
+        "result": {
+          "data": {
+            "allMarkdownRemark": {
+              "edges": [
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/algo-3-post/"
+                    },
+                    "frontmatter": {
+                      "title": "[BOJ 11559] Puyo Puyo",
+                      "tags": [
+                        "algorithm"
+                      ],
+                      "published": true
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/algo-post/"
+                    },
+                    "frontmatter": {
+                      "title": "[BOJ 14620] 꽃길",
+                      "tags": [
+                        "algorithm"
+                      ],
+                      "published": true
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/algo-2-post/"
+                    },
+                    "frontmatter": {
+                      "title": "[BOJ 6603] 로또",
+                      "tags": [
+                        "algorithm"
+                      ],
+                      "published": true
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/first-post/"
+                    },
+                    "frontmatter": {
+                      "title": "First Post, README",
+                      "tags": [
+                        "blog"
+                      ],
+                      "published": true
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/tagList/index.js",
+      "id": "SitePage /tags/algorithm/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a8918ce375221b99880403804f185009",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1835,6 +2339,48 @@
           "data": {
             "allMarkdownRemark": {
               "edges": [
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/algo-3-post/"
+                    },
+                    "frontmatter": {
+                      "title": "[BOJ 11559] Puyo Puyo",
+                      "tags": [
+                        "algorithm"
+                      ],
+                      "published": true
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/algo-post/"
+                    },
+                    "frontmatter": {
+                      "title": "[BOJ 14620] 꽃길",
+                      "tags": [
+                        "algorithm"
+                      ],
+                      "published": true
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/algo-2-post/"
+                    },
+                    "frontmatter": {
+                      "title": "[BOJ 6603] 로또",
+                      "tags": [
+                        "algorithm"
+                      ],
+                      "published": true
+                    }
+                  }
+                },
                 {
                   "node": {
                     "fields": {
@@ -1862,7 +2408,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5f89c1680e8d0f9693e0706a4a6d8e6e",
+        "contentDigest": "800ee5ec4fea290aa498995ed0d41ae1",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1956,7 +2502,19 @@
     "nodes": {
       "Site": [
         "sq--src-components-layout-index-js",
+        "/algo-3-post/",
+        "/algo-post/",
+        "/algo-2-post/",
         "/first-post/"
+      ],
+      "61dbf03a-0b1b-524b-aa69-5b1299e03952": [
+        "/algo-3-post/"
+      ],
+      "96becc00-62fe-5c35-963e-33d23359d36b": [
+        "/algo-post/"
+      ],
+      "9df9af4a-0f4e-53ed-bf0b-6b8818c0700e": [
+        "/algo-2-post/"
       ],
       "335d06a8-aa6e-50f6-9b34-1dc98ced44a8": [
         "/first-post/"
@@ -1967,18 +2525,23 @@
         "/",
         "/search/",
         "/tags",
+        "/tags/algorithm/",
         "/tags/blog/"
       ]
     }
   },
   "jsonDataPaths": {
-    "search-a73": "148/path---search-a-73-83d-9Me8KpvMZRkptFGlDwI2Q8RZhw",
+    "search-a73": "460/path---search-a-73-83d-nG72l3zgvKo9cQdX2mEjOYHPLrc",
     "sq--src-components-layout-index-js": 755544856,
-    "index": "880/path---index-6a9-jwUMb0EgT2pAeSOTZawmL92de8",
-    "first-post-482": "106/path---first-post-482-947-jD2W2X6GNwGD0Uv4ZDClACDhx4",
-    "tags-blog-b62": "71/path---tags-blog-b-62-b8f-M47ZyLWKrphoPjtZ44GU4iZIdWo",
-    "tags-cd4": "428/path---tags-cd-4-e51-yy62MmMFtZKuSCVvKndASySA5E",
+    "index": "477/path---index-6a9-3OPGsZpwoZHzbfSWJLyhqyYNA",
+    "algo-3-post-83d": "251/path---algo-3-post-83-d-ef3-VdwnvRuW5NEmOevvVBHbfTqlLiE",
+    "tags-cd4": "947/path---tags-cd-4-e51-5IvNKyQkQyUmtAtkqmJx20KV09A",
+    "algo-post-8ed": "10/path---algo-post-8-ed-700-ADYCR0yCdZd2y2v0eowidS9VY",
+    "algo-2-post-ce8": "338/path---algo-2-post-ce-8-84b-YJyvQUicD2PShKMqs7GJQhGIm4",
+    "first-post-482": "19/path---first-post-482-947-aEa2P5hSfBoRiWcmQGPiGy3t8",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "tags-blog-b62": "244/path---tags-blog-b-62-b8f-9jBctiHTJm9hVqWcIKUE9UWXNMw",
+    "tags-algorithm-e15": "842/path---tags-algorithm-e-15-e83-lbx71IGRxUMZF44wtcncHtumA",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
