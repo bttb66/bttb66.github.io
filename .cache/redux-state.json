@@ -1,0 +1,2016 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "176a79e2a39bf3161afa3e994ac0234a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin load-babel-config": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "Plugin load-babel-config",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "eb9ff3281791bdd0bf64a9e2949dad3f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "68200264b7fa2f0b90324c10e161da44",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fe0e0467d20d58082febd26ceac397b7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "23f0b372b122a008b75305208b474690",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ae81f666897f7e50e43de8737c7e33b5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "2.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^7.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7ec657c47e84512b2a1a1f7cf594cb40",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts",
+        "name": "markdown-pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.5",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e676b25f05b828576934b2359774fcdd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.9",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "2.0.4",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 590,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
+            "name": "gatsby-remark-prismjs",
+            "version": "2.0.5",
+            "pluginOptions": {
+              "plugins": [],
+              "classPrefix": "language-",
+              "inlineCodeMarker": null,
+              "aliases": {},
+              "showLineNumbers": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-emojis",
+            "id": "Plugin gatsby-remark-emojis",
+            "name": "gatsby-remark-emojis",
+            "version": "0.2.3",
+            "pluginOptions": {
+              "plugins": [],
+              "active": true,
+              "class": "emoji-icon",
+              "size": 64,
+              "styles": {
+                "display": "inline",
+                "margin": "0",
+                "margin-top": "1px",
+                "position": "relative",
+                "top": "5px",
+                "width": "25px"
+              }
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-emojis"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.9",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e2d1ee6b4536b0894fd39c25651db632",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 590,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9bb5432a047c4861fb22fd3c5478b94a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-prismjs": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
+      "name": "gatsby-remark-prismjs",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "classPrefix": "language-",
+        "inlineCodeMarker": null,
+        "aliases": {},
+        "showLineNumbers": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.3"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.13.0"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "prismjs",
+            "version": "^1.13.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "02bf6ea2b023a5a32ab2fb154ec43037",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-emojis": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-emojis",
+      "id": "Plugin gatsby-remark-emojis",
+      "name": "gatsby-remark-emojis",
+      "version": "0.2.3",
+      "pluginOptions": {
+        "plugins": [],
+        "active": true,
+        "class": "emoji-icon",
+        "size": 64,
+        "styles": {
+          "display": "inline",
+          "margin": "0",
+          "margin-top": "1px",
+          "position": "relative",
+          "top": "5px",
+          "width": "25px"
+        }
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-remark-emojis",
+      "packageJson": {
+        "name": "gatsby-remark-emojis",
+        "description": "Processes emoji in markdown and inlines `<img>` tags with the corresponding base64 corresponding of the image.",
+        "version": "0.2.3",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark",
+          "emoji"
+        ],
+        "author": {
+          "name": "Mathias Schilling",
+          "email": "m@matchilling.com",
+          "url": "https://www.matchilling.com"
+        },
+        "license": "GPL-3.0",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1c0d13c26ec60a7805b2b50ff9ec4bd0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "799e5a17178127655e6d39ee456ef984",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-robots-txt": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-robots-txt",
+      "id": "Plugin gatsby-plugin-robots-txt",
+      "name": "gatsby-plugin-robots-txt",
+      "version": "1.3.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-robots-txt",
+      "packageJson": {
+        "name": "gatsby-plugin-robots-txt",
+        "description": "Gatsby plugin that automatically creates robots.txt for your site",
+        "version": "1.3.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Marat Dreizin",
+          "email": "marat.dreizin@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "generate-robotstxt",
+            "version": "^5.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^8.2.3"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-runtime",
+            "version": "^6.23.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.6.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "eslint-plugin-babel",
+            "version": "^5.1.0"
+          },
+          {
+            "name": "eslint-plugin-markdown",
+            "version": "^1.0.0-beta.6"
+          },
+          {
+            "name": "jest",
+            "version": "^22.4.3"
+          },
+          {
+            "name": "memory-fs",
+            "version": "^0.4.1"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.12.1"
+          },
+          {
+            "name": "semantic-release",
+            "version": "^15.1.7"
+          },
+          {
+            "name": "travis-deploy-once",
+            "version": "^5.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c27e047c499f5013e919eb7e07ce858a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sitemap": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-sitemap",
+      "id": "Plugin gatsby-plugin-sitemap",
+      "name": "gatsby-plugin-sitemap",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "2.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "02d7f704a355b1decf870f892ebc9072",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "2.2.0",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "2.2.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1 || ^1.0.0-alpha.0"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0 || ^1.0.0-alpha.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "00efe06ca09404dee82807fcac93f7f9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-130252305-1"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "53885d11141c6b62100bdf8b97f0a875",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "bc655d26d52f638959e7b7e3dfc9b2ac",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io",
+      "packageJson": {
+        "name": "junhobaik-personal-web",
+        "description": "Junho Baik's devLog",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Junho Baik <junhobaik@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@fortawesome/fontawesome-svg-core",
+            "version": "^1.2.6"
+          },
+          {
+            "name": "@fortawesome/free-regular-svg-icons",
+            "version": "^5.4.1"
+          },
+          {
+            "name": "@fortawesome/free-solid-svg-icons",
+            "version": "^5.4.1"
+          },
+          {
+            "name": "@fortawesome/react-fontawesome",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.2"
+          },
+          {
+            "name": "crypto",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "disqus-react",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.31"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "gatsby-plugin-react-svg",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "gatsby-plugin-robots-txt",
+            "version": "^1.3.0"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "gatsby-remark-emojis",
+            "version": "^0.2.3"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.4"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.9"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.11"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.4"
+          },
+          {
+            "name": "normalize.css",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.6.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.6.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-router",
+            "version": "^4.3.1"
+          },
+          {
+            "name": "react-router-dom",
+            "version": "^4.3.1"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.13"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.17"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "gh-pages",
+            "version": "^1.2.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.14.3"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "056c8ed09c7eb113ec5c6d925117eea4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3fc1546c8955234597c2d920ed3a3b0e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "SW_P",
+        "author": "BTTB66",
+        "description": "Developer SW",
+        "siteUrl": "https://bttb66.github.io"
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-12-03T08:31:49.950Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9427752601484348bd85776dc75c73c0",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2f737840-0a44-578e-9a98-a0221b112ece": {
+      "id": "2f737840-0a44-578e-9a98-a0221b112ece",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e9dd78cc70af18944424d602bdfce113",
+        "type": "Directory",
+        "description": "Directory \"_posts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-12-03T08:24:25.000Z",
+      "accessTime": "2018-12-03T08:31:55.564Z",
+      "changeTime": "2018-12-03T08:24:25.913Z",
+      "birthTime": "2018-11-15T21:39:20.000Z",
+      "root": "/",
+      "dir": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io",
+      "base": "_posts",
+      "ext": "",
+      "name": "_posts",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 5855491,
+      "blocks": 0,
+      "atimeMs": 1543825915564.352,
+      "mtimeMs": 1543825465000,
+      "ctimeMs": 1543825465913.2122,
+      "birthtimeMs": 1542317960000,
+      "atime": "2018-12-03T08:31:55.564Z",
+      "mtime": "2018-12-03T08:24:25.000Z",
+      "ctime": "2018-12-03T08:24:25.913Z",
+      "birthtime": "2018-11-15T21:39:20.000Z"
+    },
+    "62fcb52d-11d6-5d26-9536-75cefc74d2a1": {
+      "id": "62fcb52d-11d6-5d26-9536-75cefc74d2a1",
+      "children": [
+        "335d06a8-aa6e-50f6-9b34-1dc98ced44a8"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "77cc79a2ef7f81515641a387c2b3ef60",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"_posts/2018-11-06-first-post.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts/2018-11-06-first-post.md",
+      "relativePath": "2018-11-06-first-post.md",
+      "extension": "md",
+      "size": 341,
+      "prettySize": "341 B",
+      "modifiedTime": "2018-11-15T21:39:20.000Z",
+      "accessTime": "2018-12-03T08:30:18.798Z",
+      "changeTime": "2018-12-03T08:24:14.105Z",
+      "birthTime": "2018-11-15T21:39:20.000Z",
+      "root": "/",
+      "dir": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts",
+      "base": "2018-11-06-first-post.md",
+      "ext": ".md",
+      "name": "2018-11-06-first-post",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 5855492,
+      "blocks": 8,
+      "atimeMs": 1543825818797.7468,
+      "mtimeMs": 1542317960000,
+      "ctimeMs": 1543825454104.7473,
+      "birthtimeMs": 1542317960000,
+      "atime": "2018-12-03T08:30:18.798Z",
+      "mtime": "2018-11-15T21:39:20.000Z",
+      "ctime": "2018-12-03T08:24:14.105Z",
+      "birthtime": "2018-11-15T21:39:20.000Z"
+    },
+    "335d06a8-aa6e-50f6-9b34-1dc98ced44a8": {
+      "id": "335d06a8-aa6e-50f6-9b34-1dc98ced44a8",
+      "children": [],
+      "parent": "62fcb52d-11d6-5d26-9536-75cefc74d2a1",
+      "internal": {
+        "content": "\n기본적인 설정, 포스트 작성 예시는 Documents를 확인하세요.\n\n- [Documnets](https://github.com/junhobaik/junhobaik.github.io/wiki/Documents)\n- [Github Repository](https://github.com/junhobaik/junhobaik.github.io)\n- [Demo blog](https://junhobaik.github.io/)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "2b0556b7900c99f2b897efd8882efd84",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "First Post, README",
+        "date": "2018-11-06T00:00:00.000Z",
+        "tags": [
+          "blog"
+        ],
+        "_PARENT": "62fcb52d-11d6-5d26-9536-75cefc74d2a1",
+        "keywords": [
+          "SW_P"
+        ],
+        "published": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n기본적인 설정, 포스트 작성 예시는 Documents를 확인하세요.\n\n- [Documnets](https://github.com/junhobaik/junhobaik.github.io/wiki/Documents)\n- [Github Repository](https://github.com/junhobaik/junhobaik.github.io)\n- [Demo blog](https://junhobaik.github.io/)\n",
+      "fileAbsolutePath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/_posts/2018-11-06-first-post.md",
+      "fields": {
+        "slug": "/first-post/"
+      }
+    },
+    "SitePage /first-post/": {
+      "jsonName": "first-post-482",
+      "internalComponentName": "ComponentFirstPost",
+      "path": "/first-post/",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js",
+      "componentChunkName": "component---src-templates-blog-post-index-js",
+      "context": {
+        "slug": "/first-post/",
+        "previous": null,
+        "next": null
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js",
+      "id": "SitePage /first-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c74ebfb906aa6db49a26780aaf1e424f",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags": {
+      "jsonName": "tags-cd4",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/tagList/index.js",
+      "componentChunkName": "component---src-templates-tag-list-index-js",
+      "context": {
+        "tags": [
+          "blog"
+        ],
+        "result": {
+          "data": {
+            "allMarkdownRemark": {
+              "edges": [
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/first-post/"
+                    },
+                    "frontmatter": {
+                      "title": "First Post, README",
+                      "tags": [
+                        "blog"
+                      ],
+                      "published": true
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/tagList/index.js",
+      "id": "SitePage /tags",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8969e086a3684e4bbfe69a0509d17fd1",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/blog/": {
+      "jsonName": "tags-blog-b62",
+      "internalComponentName": "ComponentTagsBlog",
+      "path": "/tags/blog/",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/tagList/index.js",
+      "componentChunkName": "component---src-templates-tag-list-index-js",
+      "context": {
+        "tag": "blog",
+        "result": {
+          "data": {
+            "allMarkdownRemark": {
+              "edges": [
+                {
+                  "node": {
+                    "fields": {
+                      "slug": "/first-post/"
+                    },
+                    "frontmatter": {
+                      "title": "First Post, README",
+                      "tags": [
+                        "blog"
+                      ],
+                      "published": true
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/tagList/index.js",
+      "id": "SitePage /tags/blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5f89c1680e8d0f9693e0706a4a6d8e6e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "83a5bc31340c1a416986cfb69ff506b6",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5061f7a605abab5d1691f37518c91ce2",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /search/": {
+      "jsonName": "search-a73",
+      "internalComponentName": "ComponentSearch",
+      "path": "/search/",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/search.js",
+      "componentChunkName": "component---src-pages-search-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/search.js",
+      "id": "SitePage /search/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c68b398825f917cff4d8b0492ea07df6",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f28f1d0ae13a3fe4f808b80068900de9",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "d41bba386d5e016b4b400a230ec2482f"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-index-js",
+        "/first-post/"
+      ],
+      "335d06a8-aa6e-50f6-9b34-1dc98ced44a8": [
+        "/first-post/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/",
+        "/search/",
+        "/tags",
+        "/tags/blog/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "search-a73": "148/path---search-a-73-83d-9Me8KpvMZRkptFGlDwI2Q8RZhw",
+    "sq--src-components-layout-index-js": 755544856,
+    "index": "880/path---index-6a9-jwUMb0EgT2pAeSOTZawmL92de8",
+    "first-post-482": "106/path---first-post-482-947-jD2W2X6GNwGD0Uv4ZDClACDhx4",
+    "tags-blog-b62": "71/path---tags-blog-b-62-b8f-M47ZyLWKrphoPjtZ44GU4iZIdWo",
+    "tags-cd4": "428/path---tags-cd-4-e51-yy62MmMFtZKuSCVvKndASySA5E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js": {
+      "query": "query usersBagsewonDocumentsGitGitpageBttb66GithubIoSrcTemplatesBlogPostIndexJs1815311691(\n  $slug: String\n) {\n  site {\n    siteMetadata {\n      title\n      author\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    html\n    excerpt\n    frontmatter {\n      title\n      date(formatString: \"YYYY-MM-DD\")\n      tags\n      keywords\n    }\n  }\n}\n",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/blogPost/index.js"
+    },
+    "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/tagList/index.js": {
+      "query": "query usersBagsewonDocumentsGitGitpageBttb66GithubIoSrcTemplatesTagListIndexJs3915820503 {\n  allMarkdownRemark(limit: 2000, filter: {frontmatter: {published: {ne: false}}}) {\n    group(field: frontmatter___tags) {\n      fieldValue\n      totalCount\n      edges {\n        node {\n          excerpt\n          fields {\n            slug\n          }\n          frontmatter {\n            date(formatString: \"YYYY년 MM월 DD일\")\n            title\n            tags\n          }\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/templates/tagList/index.js"
+    },
+    "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/404.js"
+    },
+    "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/index.js": {
+      "query": "query usersBagsewonDocumentsGitGitpageBttb66GithubIoSrcPagesIndexJs755028477 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, limit: 1000, filter: {frontmatter: {published: {ne: false}}}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"YYYY년 MM월 DD일\")\n          title\n          tags\n          published\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/index.js"
+    },
+    "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/search.js": {
+      "query": "query usersBagsewonDocumentsGitGitpageBttb66GithubIoSrcPagesSearchJs791130061 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {published: {ne: false}}}) {\n    edges {\n      node {\n        rawMarkdownBody\n        fields {\n          slug\n        }\n        frontmatter {\n          title\n          published\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/pages/search.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-layout-index-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/bagsewon/Documents/git/gitpage/bttb66.github.io/src/components/layout/index.js",
+      "id": "sq--src-components-layout-index-js",
+      "jsonName": "sq--src-components-layout-index-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    }
+  }
+}

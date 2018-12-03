@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://bttb66.github.io/sitemap.xml
+Host: https://bttb66.github.io
